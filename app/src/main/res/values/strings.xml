@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DMAD252_MADC_p1e1</string>
+    <string name="titulop1">Manejo de Parcelables</string>
+    <string name="lnombre">Ingrese su nombre</string>
+    <string name="ledad">Ingrese su edad</string>
+    <string name="lcorreo">Ingrese su correo</string>
+    <string name="lsexo">Ingrese su sexo</string>
+    <string name="hnombre">Aqui su nombre</string>
+    <string name="hedad">Aqui su edad</string>
+    <string name="hcorreo">Aqui su correo</string>
+    <string name="hsexo">Aqui su sexo</string>
+    <string name="p1btnenvia">Enviar informacion</string>
+    <string name="p2titulo">Despliege de datos</string>
+    <string name="p2btnterminar">Terminar aplicacion</string>
+</resources>
